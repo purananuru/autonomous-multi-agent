@@ -1,6 +1,5 @@
-# Autonomous Multi agents - Investment Banking Support requests  example
-
-This example shows how given a complex support query, the program chooses the right agent autonomously to do the different tasks in the query. For instance, here is the query and Agents output from the script. As you can see from the output, 
+# Autonomous Multi-agents - Investment Banking Support query example
+This example demonstrates how the program autonomously selects and orchestrates the correct agents to handle different tasks within a single, complex support query. The output shows that the query is first parsed, and then multiple agents are executed as needed.
 
 ## There are six agents:
 1. **Concierge Agent** - A helpful agent that can delegate a customer's request to the appropriate agent
