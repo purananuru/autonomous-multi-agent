@@ -15,7 +15,7 @@ Install the packages using pip
 ### You can run the example with:
 
 ```bash
-python autonomous-multi-agent.py
+python autonomous-investbank-multi-agent.py
 ```
 
 ### and enter a query like:
